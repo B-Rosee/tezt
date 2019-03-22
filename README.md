@@ -5,6 +5,269 @@
   <meta charset="utf-8">
   <title>Germany Travel Webpage</title>
 </head>
+<style> 
+  #Castle {
+  color: #120a6b;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+#text {
+  text-align: center;
+  text-indent: 28px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#Gate {
+  color: #120a6b;
+  font-size: 20px;
+}
+
+body {
+  background-color: #69b4e1;
+}
+
+#Church {
+  color: #120a6b;
+  font-size: 20px;
+}
+
+#img1 {
+  height: 30;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  border-style: solid;
+}
+
+#Forest {
+  color: #120a6b;
+  font-size: 20px;
+}
+
+#Rhine {
+  color: #120a6b;
+  font-size: 20px;
+}
+
+#Swan {
+  margin-right: 210px;
+  margin-left: 225px;
+  border-style: solid;
+}
+
+#Berlin {
+  color: #e8568f;
+  font-size: 20px;
+}
+
+#EagleNest {
+  color: #120a6b;
+  font-size: 20px;
+}
+
+#Rhine2 {
+  color: #e8568f;
+  font-size: 20px;
+}
+
+#Rugen {
+  color: #e8568f;
+  font-size: 20px;
+}
+
+#Cologne {
+  color: #e8568f;
+  font-size: 20px;
+}
+
+#Castle2 {
+  text-indent: 28px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#Gate2 {
+  text-indent: 28px;
+}
+
+#Churchs {
+  text-indent: 28px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#Forest2 {
+  text-indent: 28px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#Rhine3 {
+  text-indent: 28px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#EagleNest2 {
+  text-indent: 28px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#Berlin2 {
+  text-indent: 28px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#Cologne2 {
+  text-indent: 28px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+li {
+  text-align: center;
+}
+
+#Gatee {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+h3 {
+  text-align: center;
+}
+
+#Rugen2 {
+  margin-left: 250px;
+  margin-right: 250px;
+  text-indent: 50px;
+}
+
+#Climate {
+  margin-left: 250px;
+  margin-right: 250px;
+  text-indent: 50px;
+}
+
+h4 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+#Money {
+  margin-left: 250px;
+  margin-right: 250px;
+  text-indent: 50px;
+}
+
+#Wheather {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-style:solid;
+}
+
+#Euro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#Clothes {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  border-style:solid;
+}
+
+#Pack {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#Travel {
+  text-indent: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#Travel2 {
+  text-indent: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#IMG {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style:solid;
+}
+
+#GATE {
+  border-style: solid;
+}
+
+#C {
+  border-style: double;
+}
+
+#FO {
+  border-style: solid;
+}
+
+#R {
+  border-style: solid;
+}
+
+#EagleNest3 {
+  border-style: solid;
+}
+
+#B {
+  border-style: solid;
+}
+
+#Rhine4 {
+  text-indent: 28px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#Rhine5 {
+  border-style: solid;
+}
+
+#City {
+  border-style: solid;
+}
+
+#RugenR { 
+border-style:solid;
+} 
+
+#Euro { 
+border-style:solid;
+} 
+</style>
 
 <body>
 
